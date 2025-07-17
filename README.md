@@ -245,7 +245,7 @@ except KeyboardInterrupt:
 
 ---
 
-## 📣 Claim It, Fork It, Use It
+## 📣 Use It as you please under [LICENSE](LICENSE) terms
 
 > Like everything else, I Built it Because I Needed it.
 
@@ -253,7 +253,7 @@ except KeyboardInterrupt:
 
 ## 📄 License
 
-MIT License — see the [LICENSE](LICENSE) file for details.
+see the [LICENSE](LICENSE) file for details.
 
 ---
 
