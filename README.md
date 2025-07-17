@@ -96,7 +96,7 @@ Clone this repository:
 
 ```bash
 git clone https://github.com/Muad-Bohmosh/mtfifo-py.git
-cd mtfifo
+cd mtfifo-py
 ````
 
 Then import `MTFIFO` from `mtfifo.py` in your project.
