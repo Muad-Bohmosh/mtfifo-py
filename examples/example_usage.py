@@ -1,3 +1,9 @@
+# Copyright (c) 2025 Muad Bohmosh
+#
+# This file is part of the MTFIFO project.
+# Released under the MIT License.
+# See LICENSE file in the root of this repository for full license text.
+
 import threading
 import time
 
